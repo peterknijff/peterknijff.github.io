@@ -1,0 +1,1 @@
+const e="https://peterknijff.nl",t=["Peter Knijff","Web Development","Software Engineer"],s="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",i="Peter Knijff - Web Developer",n=`${e}/images/site-preview.png`;export{s as d,n as i,t as k,e as s,i as t};
