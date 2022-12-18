@@ -1,7 +1,7 @@
 <script>
 	import Contact from './contact.svelte';
 	import SectionTitle from './section-title.svelte';
-	import Photo from './photo.svelte';
+	// import Photo from './photo.svelte';
 	import Title from './title.svelte';
 	import Skills from './skills.svelte';
 	import Experience from './experience.svelte';
@@ -18,9 +18,9 @@
 		<Title />
 		<Contact />
 	</section>
-	<section class="photo">
-		<Photo />
-	</section>
+<!--	<section class="photo">-->
+<!--		<Photo />-->
+<!--	</section>-->
 	<section class="about">
 		<SectionTitle>About</SectionTitle>
 		<p>
