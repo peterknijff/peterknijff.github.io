@@ -6,11 +6,11 @@
     <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
     
         <item>
-          <title>Cool things I did and learned in 2022</title>
-          <description>A quick look back at 2019 and what I learned during this year.</description>
+          <title>Nieuwe technieken die ik geleerd heb in het jaar 2022</title>
+          <description>Een opsomming van wat interessante technieken die ik geleerd heb in 2022</description>
           <link>https://peterknijff.nl/2022-year-in-review/</link>
-          <pubDate>2019-12-29T00:00:00.000Z</pubDate>
-          <category term="Meta" /><category term="Open Source" />
+          <pubDate>2022-12-18T00:00:00.000Z</pubDate>
+          <category term="Custom elements" /><category term="Testing" /><category term="Svelte" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://peterknijff.nl/images/posts/2022-year-in-review/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://peterknijff.nl/images/posts/2022-year-in-review/cover.jpg"/>
         </item>
