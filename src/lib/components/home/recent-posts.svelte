@@ -9,9 +9,9 @@
 
 <section id="recent-posts">
 	<Section
-		title="Latest posts"
-		description="Sometimes, I write about what I'm learning or building."
-		buttonText="View all posts"
+		title="Laatste posts"
+		description="Soms, schrijf ik over zaken die voor mij interessant zijn."
+		buttonText="Bekijk posts"
 		buttonUrl="/blog"
 	>
 		<TwoByTwoGrid>

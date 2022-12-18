@@ -20,7 +20,7 @@
 <ul class="resume-contact">
 	<li class="birthday">
 		<span class="icon"><StarIcon /></span>
-		<span>{calcYearsSince('1995-08-24')} years old</span>
+		<span>{calcYearsSince('1990-02-03')} years old</span>
 	</li>
 	<li class="experience">
 		<span class="icon"><ExperienceIcon /></span>
@@ -38,19 +38,19 @@
 	</li>
 	<li class="linkedin">
 		<span class="icon"><LinkedInIcon /></span>
-		<a href="https://www.linkedin.com/in/matheus-fantinel/" target="_blank"> LinkedIn Profile </a>
+		<a href="https://www.linkedin.com/in/peterknijff/" target="_blank"> LinkedIn Profile </a>
 	</li>
 	<li class="website">
 		<span class="icon"><InternetIcon /></span>
-		<a href="https://fantinel.dev" target="_blank"> fantinel.dev </a>
+		<a href="https://peterknijff.nl" target="_blank"> peterknijff.nl </a>
 	</li>
 	<li class="github">
 		<span class="icon"><GitHubIcon /></span>
-		<a href="https://github.com/matfantinel" target="_blank"> GitHub Profile </a>
+		<a href="https://github.com/peterknijff" target="_blank"> GitHub Profile </a>
 	</li>
 	<li class="languages">
 		<span class="icon"><ChatIcon /></span>
-		<span>English, Portuguese</span>
+		<span>Dutch, English, German</span>
 	</li>
 </ul>
 

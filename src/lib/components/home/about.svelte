@@ -9,12 +9,11 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			I'm a developer aiming to build things that
-			<SparklingHighlight>spark joy</SparklingHighlight>
+			Een goede website zonder <SparklingHighlight>al te veel poespas.</SparklingHighlight>
 		</h2>
 		<p>
-			I believe software should be great for everyone — those who write it and those who use it —
-			and that bringing joy to problem-solving is the key to that.
+			Brengt de boodschap juist over — springt in het oog —
+			en is snel, gebruiksvriendelijk en is beheerbaar.
 		</p>
 	</div>
 	<div class="avatar">

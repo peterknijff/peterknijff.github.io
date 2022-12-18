@@ -5,15 +5,14 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">Hello, I'm Petertje!</h1>
+	<h1 class="hello">Hoi, ik ben Peter!</h1>
 	<p class="intro">
-		<span class="left">I build fun stuff on the web,</span>
-		<span class="right">and sometimes write about it.</span>
+		<span class="center">Ik bouw websites die opvallen en eenvoudig te beheren zijn.</span>
 	</p>
 	<div class="ctas">
 		<a id="projects-btn" href="#projects" class="button primary-light">
 			<ProjectsIcon />
-			Projects
+			Projecten
 		</a>
 		<a id="blog-btn" href="/blog" class="button primary">
 			<BlogIcon />
@@ -21,7 +20,7 @@
 		</a>
 		<a id="experience-btn" href="#experience" class="button secondary-light">
 			<ExperienceIcon />
-			Experience
+			Ervaring
 		</a>
 	</div>
 </section>
@@ -52,16 +51,10 @@
 			width: min(100%, 440px);
 			display: flex;
 			flex-direction: column;
+			padding-bottom: 16px;
 
-			.left {
-				text-align: left;
-			}
-			.right {
-				text-align: right;
-			}
-
-			@include for-phone-only {
-				display: none;
+			.center {
+				text-align: center;
 			}
 		}
 

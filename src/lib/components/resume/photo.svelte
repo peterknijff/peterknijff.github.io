@@ -1,7 +1,7 @@
-<!--<picture class="resume-photo">-->
-<!--	<source srcset="/images/resume-avatar-dark.png" media="(prefers-color-scheme: dark)" />-->
-<!--	<img src="/images/resume-avatar.png" alt="Matheus Fantinel's Avatar" />-->
-<!--</picture>-->
+<picture class="resume-photo">
+	<source srcset="/images/resume-avatar-dark.png" media="(prefers-color-scheme: dark)" />
+	<img src="/images/resume-avatar.png" alt="Peter Knijff's Avatar" />
+</picture>
 
 <style lang="scss">
 	.resume-photo {

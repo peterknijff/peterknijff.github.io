@@ -1,5 +1,5 @@
 <div class="resume-title">
-	<h1>Matheus Fantinel</h1>
+	<h1>Peter Knijff</h1>
 	<h5>Web Developer</h5>
 </div>
 

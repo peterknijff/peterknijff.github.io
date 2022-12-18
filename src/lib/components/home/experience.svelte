@@ -11,9 +11,9 @@
 <section id="experience">
 	<Section
 		align="right"
-		title="Work Experience"
-		description="Over the past {yearsOfExperience}+ years, I've worked on a lot of cool projects."
-		buttonText="View Resume"
+		title="Werk ervaring"
+		description="Afgelopen {yearsOfExperience}+ jaar, heb ik aan een hoop toffe projecten gewerkt."
+		buttonText="Bekijk ervaringen"
 		buttonUrl="/resume"
 		buttonColor="secondary"
 	>

@@ -12,13 +12,13 @@
 </script>
 
 <section id="projects">
-	<Section
-		align="top"
-		title="Projects"
-		description="I like to build some small projects when learning. Technologies are varied and so are their purposes. Most of them are open source!"
-	>
-		<OneByOneGrid>
-			<ProjectsGrid>
+<!--	<Section-->
+<!--		align="top"-->
+<!--		title="Projecten"-->
+<!--		description="Soms bouw ik applicaties of websites, soms test en ontdek ik nieuwe technieken."-->
+<!--	>-->
+<!--		<OneByOneGrid>-->
+<!--			<ProjectsGrid>-->
 <!--				<Card>-->
 <!--					<div slot="image">-->
 <!--						<Image path="projects" filename="personal-website" alt="Personal Website" />-->
@@ -139,9 +139,9 @@
 <!--						</div>-->
 <!--					</div>-->
 <!--				</Card>-->
-			</ProjectsGrid>
+<!--			</ProjectsGrid>-->
 
-			<ThreeByThreeGrid>
+<!--			<ThreeByThreeGrid>-->
 <!--				<Card>-->
 <!--					<div slot="image">-->
 <!--						<Image path="projects" filename="moneta" alt="Moneta" />-->
@@ -229,9 +229,9 @@
 <!--						</div>-->
 <!--					</div>-->
 <!--				</Card>-->
-			</ThreeByThreeGrid>
-		</OneByOneGrid>
-	</Section>
+<!--			</ThreeByThreeGrid>-->
+<!--		</OneByOneGrid>-->
+<!--	</Section>-->
 	<Blobs maxTop={5} minLeft={50} />
 </section>
 
