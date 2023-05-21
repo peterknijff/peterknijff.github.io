@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6104a8a0-cbc4-44a4-ad94-3f57a996f81b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/optimized-images/resume-avatar.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/optimized-images/resume-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/optimized-images/resume-avatar.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/peterknijff.nl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/blog-post-card.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/callout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/card.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/image.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/socials.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/base/tag.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/blog/code-block.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/home/about.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/home/experience.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/home/hero.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/home/projects.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/home/recent-posts.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/1x1-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/2x1-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/2x2-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/3-2-1-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/3x3-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/blobs.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/footer.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/header.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/projects-grid.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/section.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/layout/waves.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/contact.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/experience.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/photo.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/resume.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/section-title.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/skills.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/resume/title.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/style/low-accent-highlight.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/style/marker-highlight.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/style/sparkles/single-sparkle.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/style/sparkles/sparkles.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/style/sparkling-highlight.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/experience.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/layout/article.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/layout/wave.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/meta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/posts/2022-year-in-review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/code-highlights.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/markdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/themes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/scss/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/alert.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/avatar.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob1.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob2.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob3.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob4.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob5.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob6.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blobs/blob7.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/blog.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/chat.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/check.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/circle.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/download.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/error.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/experience.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/external-link.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/footer-wave.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/info.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/internet.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/logo.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/pin.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/projects.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/rss.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/socials/email.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/socials/github.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/socials/linkedin.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/svg/star.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(blog-article)/+layout.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(blog-article)/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(blog-article)/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(blog-article)/[slug]/+page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(blog-article)/[slug]/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(root)/+page.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(root)/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(waves)/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(waves)/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(waves)/404/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(waves)/404/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(waves)/blog/+page.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(waves)/blog/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(waves)/blog/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/(waves)/resume/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/(waves)/resume/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+error.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+error.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/digital-tools/+page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/rss.xml/+server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/static/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicons/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicons/favicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicons/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicons/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicons/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicons/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-bolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-bolditalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-italic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Ubuntu Mono/ubuntumono-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-bolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-bolditalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-light-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-lightitalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-lightitalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-regularitalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-regularitalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-semibold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-semibold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-semibolditalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Wotfard/wotfard-semibolditalic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ubuntu-mono.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/wotfard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/posts/2022-year-in-review/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.avif" beforeDir="false" afterPath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/optimized-images/posts/2022-year-in-review/cover.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svelte.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/svelte.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q3Dr5EZUcSoZbS6TzunoFmLHkD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Peter/Projects/peterknijff.github.io - kopie",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettier.import.notification.dismissed": "true",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Peter\\Projects\\peterknijff.github.io\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\Peter\\Projects\\peterknijff.github.io\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="postbuild" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="postbuild" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="story:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="story:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.postbuild" />
+        <item itemvalue="npm.story:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6104a8a0-cbc4-44a4-ad94-3f57a996f81b" name="Changes" comment="" />
+      <created>1684573567926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684573567926</updated>
+      <workItem from="1684573570618" duration="341000" />
+      <workItem from="1684573922340" duration="973000" />
+      <workItem from="1684578365910" duration="154000" />
+      <workItem from="1684578533633" duration="5409000" />
+      <workItem from="1684674103121" duration="4558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

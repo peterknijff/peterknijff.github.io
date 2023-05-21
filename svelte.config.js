@@ -1,5 +1,6 @@
-import preprocess from 'svelte-preprocess';
-import adapter from '@sveltejs/adapter-static';
+// import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-auto';
+import { vitePreprocess } from '@sveltejs/kit/vite';
 import { mdsvex } from 'mdsvex';
 import rehypeExternalLinks from 'rehype-external-links';
 import rehypeSlug from 'rehype-slug';
@@ -9,16 +10,12 @@ const extensions = ['.svelte', '.md'];
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// Consult https://github.com/sveltejs/svelte-preprocess
-	// for more information about preprocessors
+	kit: {
+		adapter: adapter()
+	},
 	preprocess: [
-		preprocess({
-			preserve: ['module']
-		}),
+		vitePreprocess(),
 		mdsvex({
-			layout: {
-				article: './src/lib/layout/article.svelte'
-			},
 			extensions: extensions,
 			rehypePlugins: [
 				rehypeExternalLinks, // Adds 'target' and 'rel' to external links
@@ -27,11 +24,12 @@ const config = {
 					rehypeAutolinkHeadings,
 					{
 						// Adds hyperlinks to the headings, requires rehypeSlug
-						behavior: 'append',
+						behavior: 'prepend',
+						properties: { className: ['heading-link'], title: 'Permalink', ariaHidden: 'true' },
 						content: {
 							type: 'element',
 							tagName: 'span',
-							properties: { className: ['heading-link'] },
+							properties: {},
 							children: [{ type: 'text', value: '#' }]
 						}
 					}
@@ -39,11 +37,7 @@ const config = {
 			]
 		})
 	],
-	extensions: extensions,
-
-	kit: {
-		adapter: adapter()
-	}
+	extensions: extensions
 };
 
 export default config;
